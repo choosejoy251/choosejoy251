@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @choosejoy251
-- 👀 I’m interested in AI and the magic behind it
-- 🌱 I’m currently learning CS50 and working to learn how to develop Ai applications
+- 👀 AI and the magic behind it
 - 💞️ I’m looking to collaborate on AI web application projects
 - 📫 Leave a comment on my work
 - 😄 Him! Yo!
